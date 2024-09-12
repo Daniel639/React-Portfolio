@@ -36,7 +36,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 ## Deployment
 
-This portfolio is deployed and hosted on Netlify. You can view the live site at [dbsreactportfolio.netlify.app].
+This portfolio is deployed and hosted on Netlify. You can view the live site at [https://dbsreactportfolio.netlify.app](https://dbsreactportfolio.netlify.app).
 
 ## Feedback
 
