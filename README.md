@@ -31,7 +31,6 @@ The portfolio includes several projects demonstrating my skills in web developme
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 - Email: [berroadanny@gmail.com](mailto:berroadanny@gmail.com)
-- Phone: (305) 912-1443
 - GitHub: [Your GitHub Profile](https://github.com/Daniel639)
 
 ## Deployment
